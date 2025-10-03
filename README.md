@@ -24,7 +24,7 @@
 
 ## PSA Tools
 - [ConnectWise Manage Node](https://github.com/example/n8n-connectwise-manage) - Automate PSA workflows.
-- [Autotask Node](https://github.com/example/n8n-autotask) - Ticketing and project integration.
+- [Autotask Node](https://github.com/msoukhomlinov/n8n-nodes-autotask) - Ticketing, Time, Invoice, and Project integration. Includes webhook listener registration.
 
 ## Distributors & Vendors
 - [Ingram Micro Node](https://github.com/example/n8n-ingram) - Quote and order automation.
