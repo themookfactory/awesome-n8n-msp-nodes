@@ -26,12 +26,12 @@
 - [Syncro Node](https://github.com/example/n8n-syncro) - Manage tickets, devices, and invoicing.
 
 ## PSA Tools
-- [ConnectWise Manage Node](https://github.com/example/n8n-connectwise-manage) - Automate PSA workflows.
+- [ConnectWise Manage Node](https://github.com/example/n8n-connectwise-manage) - Automate PSA workflows. ❌
 - [Autotask Node](https://github.com/msoukhomlinov/n8n-nodes-autotask) - Ticketing, Time, Invoice, and Project integration. Includes webhook listener registration.
 
 ## Distributors & Vendors
-- [Ingram Micro Node](https://github.com/example/n8n-ingram) - Quote and order automation.
-- [TD SYNNEX Node](https://github.com/example/n8n-tdsynnex) - Distributor API integration.
+- [Ingram Micro Node](https://github.com/example/n8n-ingram) - Quote and order automation. ❌
+- [TD SYNNEX Node](https://github.com/example/n8n-tdsynnex) - Distributor API integration. ❌
 
 ## Security & Monitoring
 - [Huntress Node](https://github.com/example/n8n-huntress) - Security alert ingestion and automation.
@@ -39,11 +39,11 @@
 - [ConnectSecure Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-connectsecure) - [ConnectSecure](https://connectsecure.com/) vulnerability scanner
 
 ## Backup & DR
-- [Datto Backup Node](https://github.com/example/n8n-datto-backup) - Manage backup and restore jobs.
-- [Veeam Node](https://github.com/example/n8n-veeam) - Trigger backup reports and job actions.
+- [Datto Backup Node](https://github.com/example/n8n-datto-backup) - Manage backup and restore jobs. ❌
+- [Veeam Node](https://github.com/example/n8n-veeam) - Trigger backup reports and job actions. ❌
 
 ## Miscellaneous
-- [Keeper Node](https://github.com/example/n8n-keeper) - Automate password vault workflows.
+- [Keeper Node](https://github.com/example/n8n-keeper) - Automate password vault workflows. ❌
 - [Slack Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Slack) - Send MSP notifications to Slack.
 - [n8layer CIPP Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-cipp) - Automate [CIPP](https://cipp.app) with the node version that has most available options as of this writing. Can't be installed with davejlong version due to naming conflicts.
 - [davejlong CIPP Node](https://github.com/davejlong/n8n-nodes-cipp) - Automate CIPP with an alternate node version that supports several request options around users and licensing very well but not extensive other calls. Can't be installed with n8layer version due to naming conflicts.
