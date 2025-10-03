@@ -7,19 +7,22 @@
 
 ## Contents
 
-- [RMM Tools](#rmm-tools)
-- [PSA Tools](#psa-tools)
-- [Distributors & Vendors](#distributors--vendors)
-- [Security & Monitoring](#security--monitoring)
-- [Backup & DR](#backup--dr)
-- [Miscellaneous](#miscellaneous)
-- [Contributing](#contributing)
+- [Awesome N8N MSP Nodes ](#awesome-n8n-msp-nodes-)
+	- [Contents](#contents)
+	- [RMM Tools](#rmm-tools)
+	- [PSA Tools](#psa-tools)
+	- [Distributors \& Vendors](#distributors--vendors)
+	- [Security \& Monitoring](#security--monitoring)
+	- [Backup \& DR](#backup--dr)
+	- [Miscellaneous](#miscellaneous)
+	- [Contributing](#contributing)
+	- [License](#license)
 
 ---
 
 ## RMM Tools
 - [Datto RMM Node](https://github.com/example/n8n-datto-rmm) - Interact with Datto RMM API.
-- [NinjaOne Node](https://github.com/example/n8n-ninjaone) - Automate NinjaOne workflows.
+- [NinjaOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-ninjaone) - Automate NinjaOne workflows.
 - [Syncro Node](https://github.com/example/n8n-syncro) - Manage tickets, devices, and invoicing.
 
 ## PSA Tools
@@ -33,6 +36,7 @@
 ## Security & Monitoring
 - [Huntress Node](https://github.com/example/n8n-huntress) - Security alert ingestion and automation.
 - [CrowdStrike Node](https://github.com/example/n8n-crowdstrike) - Endpoint security automation.
+- [ConnectSecure Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-connectsecure) - [ConnectSecure](https://connectsecure.com/) vulnerability scanner
 
 ## Backup & DR
 - [Datto Backup Node](https://github.com/example/n8n-datto-backup) - Manage backup and restore jobs.
@@ -41,6 +45,12 @@
 ## Miscellaneous
 - [Keeper Node](https://github.com/example/n8n-keeper) - Automate password vault workflows.
 - [Slack Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Slack) - Send MSP notifications to Slack.
+- [n8layer CIPP Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-cipp) - Automate [CIPP](https://cipp.app) with the node version that has most available options as of this writing. Can't be installed with davejlong version due to naming conflicts.
+- [davejlong CIPP Node](https://github.com/davejlong/n8n-nodes-cipp) - Automate CIPP with an alternate node version that supports several request options around users and licensing very well but not extensive other calls. Can't be installed with n8layer version due to naming conflicts.
+- [AvantGuard CIPP Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-cipp) - Automate CIPP with an alternate node version that supports some options. Can coexist with others due to alternate naming convention.
+- [IT Glue Node](https://www.npmjs.com/package/n8n-nodes-itglue) - Automate IT Glue workflows with extensive access to IT Glue objects and flexible assets.
+- [MS Graph Multitenant](https://www.npmjs.com/package/n8n-nodes-msgraph-multitenant) - Automate MS Graph workflows using GDAP access for multi-tenant automations.
+
 
 ---
 
