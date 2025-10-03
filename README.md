@@ -41,7 +41,7 @@
 ## Miscellaneous
 - [Keeper Node](https://github.com/example/n8n-keeper) - Automate password vault workflows.
 - [Slack Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Slack) - Send MSP notifications to Slack.
-
+- [ConnectWise CPQ](https://github.com/msoukhomlinov/n8n-nodes-connectwise-cpq) - ConnectWise CPQ (Sell) REST API
 ---
 
 ## Contributing
