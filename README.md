@@ -21,9 +21,9 @@
 ---
 
 ## RMM Tools
-- [Datto RMM Node](https://github.com/example/n8n-datto-rmm) - Interact with Datto RMM API.
+- [Datto RMM Node](https://github.com/example/n8n-datto-rmm) - Interact with Datto RMM API. ❌
 - [NinjaOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-ninjaone) - Automate NinjaOne workflows.
-- [Syncro Node](https://github.com/example/n8n-syncro) - Manage tickets, devices, and invoicing.
+- [Syncro Node](https://github.com/example/n8n-syncro) - Manage tickets, devices, and invoicing. ❌
 
 ## PSA Tools
 - [ConnectWise Manage Node](https://github.com/example/n8n-connectwise-manage) - Automate PSA workflows. ❌
@@ -34,8 +34,8 @@
 - [TD SYNNEX Node](https://github.com/example/n8n-tdsynnex) - Distributor API integration. ❌
 
 ## Security & Monitoring
-- [Huntress Node](https://github.com/example/n8n-huntress) - Security alert ingestion and automation.
-- [CrowdStrike Node](https://github.com/example/n8n-crowdstrike) - Endpoint security automation.
+- [Huntress Node](https://github.com/example/n8n-huntress) - Security alert ingestion and automation. ❌
+- [CrowdStrike Node](https://github.com/example/n8n-crowdstrike) - Endpoint security automation. ❌
 - [ConnectSecure Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-connectsecure) - [ConnectSecure](https://connectsecure.com/) vulnerability scanner
 
 ## Backup & DR
