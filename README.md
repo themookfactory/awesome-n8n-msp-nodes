@@ -64,6 +64,7 @@
 
 ### Chat & Collaboration
 - [Discord Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Discord) - [Discord](https://discord.com/) chat automation and alerts for MSP teams. *(by [n8n.io](https://github.com/n8n-io))*
+- [Microsoft Teams Node](https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.microsoftteams/) - [Microsoft Teams](https://www.microsoft.com/microsoft-teams) chat, meetings, and collaboration automation. *(by [n8n.io](https://github.com/n8n-io))*
 - [Slack Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Slack) - [Slack](https://slack.com/) internal chat and MSP notification automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ### Transactional Email
