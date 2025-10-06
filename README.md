@@ -56,7 +56,7 @@
 ---
 
 ## Backup & DR
-- [Druva MSP Node](https://github.com/msoukhomlinov/n8n-nodes-druva-msp) - [Druva MSP](https://www.druva.com/) cloud backup and data protection automation. *(by [Mikhail Soukhomlinov](https://github.com/msoukhomlinov))*
+- [Druva MSP Node](https://github.com/msoukhomlinov/n8n-nodes-druva-msp) - [Druva MSP](https://www.druva.com/) cloud backup and data protection automation. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 
 ---
 
@@ -92,7 +92,7 @@
 
 ## Documentation
 - [Hudu Node (@avantguardllc)](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-hudu) - [Hudu](https://www.hudu.com/) IT documentation platform integration. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
-- [Hudu Node (msoukhomlinov)](https://github.com/msoukhomlinov/n8n-nodes-hudu) - [Hudu](https://www.hudu.com/) IT documentation platform automation. *(by [Mikhail Soukhomlinov](https://github.com/msoukhomlinov))*
+- [Hudu Node (msoukhomlinov)](https://github.com/msoukhomlinov/n8n-nodes-hudu) - [Hudu](https://www.hudu.com/) IT documentation platform automation. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 - [IT Glue Node](https://www.npmjs.com/package/n8n-nodes-itglue) - [IT Glue](https://www.itglue.com/) documentation automation with access to all IT Glue objects and flexible assets. *(by [n8n Community](https://www.npmjs.com/~n8n))*
 
 ---
@@ -105,9 +105,9 @@
 ## Microsoft Management
 - [CIPP Node (@avantguardllc)](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-cipp) - [CIPP](https://cipp.app/) Microsoft 365 management and automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
 - [CIPP Node (davejlong)](https://github.com/davejlong/n8n-nodes-cipp) - [CIPP](https://cipp.app/) automation with strong support for user and licensing operations. *(by [Dave J. Long](https://github.com/davejlong))*
-- [CIPP Node (msoukhomlinov)](https://github.com/msoukhomlinov/n8n-nodes-cipp) - [CIPP](https://cipp.app/) automation for Microsoft 365 environments. *(by [Mikhail Soukhomlinov](https://github.com/msoukhomlinov))*
+- [CIPP Node (msoukhomlinov)](https://github.com/msoukhomlinov/n8n-nodes-cipp) - [CIPP](https://cipp.app/) automation for Microsoft 365 environments. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 - [CIPP Node (n8layer)](https://www.npmjs.com/package/@n8layer/n8n-nodes-cipp) - Automate [CIPP](https://cipp.app) with extended Microsoft 365 management options. *(by [n8layer](https://www.npmjs.com/~n8layer))*
-- [Microsoft SharePoint Node](https://github.com/msoukhomlinov/n8n-nodes-microsoft-sharepoint) - [SharePoint](https://www.microsoft.com/microsoft-365/sharepoint) site and document automation. *(by [Mikhail Soukhomlinov](https://github.com/msoukhomlinov))*
+- [Microsoft SharePoint Node](https://github.com/msoukhomlinov/n8n-nodes-microsoft-sharepoint) - [SharePoint](https://www.microsoft.com/microsoft-365/sharepoint) site and document automation. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 
 ---
 
@@ -118,14 +118,14 @@
 ---
 
 ## PSA Tools
-- [Autotask Node](https://github.com/msoukhomlinov/n8n-nodes-autotask) - [Autotask](https://www.datto.com/autotask-psa/) PSA ticketing, time, invoicing, and project integration with webhook listener registration. *(by [Mikhail Soukhomlinov](https://github.com/msoukhomlinov))*
+- [Autotask Node](https://github.com/msoukhomlinov/n8n-nodes-autotask) - [Autotask](https://www.datto.com/autotask-psa/) PSA ticketing, time, invoicing, and project integration with webhook listener registration. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 - [HaloPSA Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-halopsa) - [HaloPSA](https://halopsa.com/) professional services automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
 - [ServiceNow Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/ServiceNow) - [ServiceNow](https://www.servicenow.com/) service management and workflow automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ---
 
 ## Quoting & Proposals
-- [ConnectWise CPQ (Sell) Node](https://github.com/msoukhomlinov/n8n-nodes-connectwise-cpq) - [ConnectWise CPQ](https://www.connectwise.com/platform/sell) quoting and proposal automation for MSP sales workflows. *(by [Mikhail Soukhomlinov](https://github.com/msoukhomlinov))*
+- [ConnectWise CPQ (Sell) Node](https://github.com/msoukhomlinov/n8n-nodes-connectwise-cpq) - [ConnectWise CPQ](https://www.connectwise.com/platform/sell) quoting and proposal automation for MSP sales workflows. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 
 ---
 
