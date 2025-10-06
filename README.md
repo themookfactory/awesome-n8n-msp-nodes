@@ -40,7 +40,7 @@
 
 ## Accounting Platforms
 - [QuickBooks Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/QuickBooks) - [QuickBooks](https://quickbooks.intuit.com/) accounting automation for invoices, expenses, and payments. *(by [n8n.io](https://github.com/n8n-io))*
-- [Sage Intacct Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-sageintacct) - [Sage Intacct](https://www.sage.com/en-us/sage-intacct/) finance and accounting automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [Sage Intacct Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-sageintacct) - [Sage Intacct](https://www.sage.com/en-us/sage-intacct/) finance and accounting automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [Xero Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Xero) - [Xero](https://www.xero.com/) accounting automation and invoice management. *(by [n8n.io](https://github.com/n8n-io))*
 
 ---
@@ -67,14 +67,14 @@
 - [Slack Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Slack) - [Slack](https://slack.com/) internal chat and MSP notification automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ### Transactional Email
-- [Acumbamail Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-acumbamail) - [Acumbamail](https://acumbamail.com/) email and SMS campaign automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
-- [EmailIt Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-emailit) - [EmailIt](https://emailit.io/) transactional and marketing email integration. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
-- [Maileroo Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-maileroo) - [Maileroo](https://maileroo.com/) transactional email delivery automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [Acumbamail Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-acumbamail) - [Acumbamail](https://acumbamail.com/) email and SMS campaign automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+- [EmailIt Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-emailit) - [EmailIt](https://emailit.io/) transactional and marketing email integration. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+- [Maileroo Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-maileroo) - [Maileroo](https://maileroo.com/) transactional email delivery automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [Mailgun Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Mailgun) - [Mailgun](https://www.mailgun.com/) transactional and marketing email automation. *(by [n8n.io](https://github.com/n8n-io))*
 - [SendGrid Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/SendGrid) - [SendGrid](https://sendgrid.com/) transactional and marketing email delivery. *(by [n8n.io](https://github.com/n8n-io))*
 
 ### SMS & Voice
-- [ClerkChat Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-clerkchat) - [ClerkChat](https://clerk.chat/) two-way SMS and chat automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [ClerkChat Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-clerkchat) - [ClerkChat](https://clerk.chat/) two-way SMS and chat automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [Twilio Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Twilio) - [Twilio](https://www.twilio.com/) SMS, call, and communication automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ---
@@ -86,12 +86,12 @@
 ---
 
 ## Distributors
-- [Pax8 Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-pax8) - [Pax8](https://www.pax8.com/) cloud distributor API integration. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [Pax8 Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-pax8) - [Pax8](https://www.pax8.com/) cloud distributor API integration. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 
 ---
 
 ## Documentation
-- [Hudu Node (@avantguardllc)](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-hudu) - [Hudu](https://www.hudu.com/) IT documentation platform integration. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [Hudu Node (@avantguardllc)](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-hudu) - [Hudu](https://www.hudu.com/) IT documentation platform integration. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [Hudu Node (msoukhomlinov)](https://github.com/msoukhomlinov/n8n-nodes-hudu) - [Hudu](https://www.hudu.com/) IT documentation platform automation. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 - [IT Glue Node](https://www.npmjs.com/package/n8n-nodes-itglue) - [IT Glue](https://www.itglue.com/) documentation automation with access to all IT Glue objects and flexible assets. *(by [n8n Community](https://www.npmjs.com/~n8n))*
 
@@ -103,8 +103,8 @@
 ---
 
 ## Microsoft Management
-- [CIPP Node (@avantguardllc)](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-cipp) - [CIPP](https://cipp.app/) Microsoft 365 management and automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
-- [CIPP Node (davejlong)](https://github.com/davejlong/n8n-nodes-cipp) - [CIPP](https://cipp.app/) automation with strong support for user and licensing operations. *(by [Dave J. Long](https://github.com/davejlong))*
+- [CIPP Node (@avantguardllc)](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-cipp) - [CIPP](https://cipp.app/) Microsoft 365 management and automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+- [CIPP Node (davejlong)](https://github.com/davejlong/n8n-nodes-cipp) - [CIPP](https://cipp.app/) automation with strong support for user and licensing operations. *(by [davejlong](https://github.com/davejlong))*
 - [CIPP Node (msoukhomlinov)](https://github.com/msoukhomlinov/n8n-nodes-cipp) - [CIPP](https://cipp.app/) automation for Microsoft 365 environments. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 - [CIPP Node (n8layer)](https://www.npmjs.com/package/@n8layer/n8n-nodes-cipp) - Automate [CIPP](https://cipp.app) with extended Microsoft 365 management options. *(by [n8layer](https://www.npmjs.com/~n8layer))*
 - [Microsoft SharePoint Node](https://github.com/msoukhomlinov/n8n-nodes-microsoft-sharepoint) - [SharePoint](https://www.microsoft.com/microsoft-365/sharepoint) site and document automation. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
@@ -112,14 +112,14 @@
 ---
 
 ## Payment Platforms
-- [FlexPoint Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-flexpoint) - [FlexPoint](https://www.flexpoint.com/) eCommerce and payment platform integration. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [FlexPoint Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-flexpoint) - [FlexPoint](https://www.flexpoint.com/) eCommerce and payment platform integration. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [Stripe Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Stripe) - [Stripe](https://stripe.com/) payment processing and invoicing automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ---
 
 ## PSA Tools
 - [Autotask Node](https://github.com/msoukhomlinov/n8n-nodes-autotask) - [Autotask](https://www.datto.com/autotask-psa/) PSA ticketing, time, invoicing, and project integration with webhook listener registration. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
-- [HaloPSA Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-halopsa) - [HaloPSA](https://halopsa.com/) professional services automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [HaloPSA Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-halopsa) - [HaloPSA](https://halopsa.com/) professional services automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [ServiceNow Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/ServiceNow) - [ServiceNow](https://www.servicenow.com/) service management and workflow automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ---
@@ -130,7 +130,7 @@
 ---
 
 ## RMM Tools
-- [NinjaOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-ninjaone) - [NinjaOne](https://www.ninjaone.com/) RMM automation and integrations. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [NinjaOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-ninjaone) - [NinjaOne](https://www.ninjaone.com/) RMM automation and integrations. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [SyncroMSP Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/SyncroMSP) - [SyncroMSP](https://syncromsp.com/) PSA and RMM platform automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ---
@@ -138,30 +138,30 @@
 ## Security
 
 ### Endpoint Protection
-- [SentinelOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-sentinelone) - [SentinelOne](https://www.sentinelone.com/) endpoint protection and threat response. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [SentinelOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-sentinelone) - [SentinelOne](https://www.sentinelone.com/) endpoint protection and threat response. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 
 ### Network & DNS Security
-- [DNSFilter Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-dnsfilter) - [DNSFilter](https://www.dnsfilter.com/) DNS security and policy management. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [DNSFilter Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-dnsfilter) - [DNSFilter](https://www.dnsfilter.com/) DNS security and policy management. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 
 ### Password Management & Access
 - [Bitwarden Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Bitwarden) - [Bitwarden](https://bitwarden.com/) password manager automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ### SaaS & Cloud Security Monitoring
-- [SaaS Alerts Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-saasalerts) - [SaaS Alerts](https://www.saasalerts.com/) SaaS security monitoring for MSPs. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [SaaS Alerts Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-saasalerts) - [SaaS Alerts](https://www.saasalerts.com/) SaaS security monitoring for MSPs. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 
 ### Security Awareness & Training
-- [Phin Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-phin) - [Phin Security](https://phinsec.io/) security awareness training automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [Phin Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-phin) - [Phin Security](https://phinsec.io/) security awareness training automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 
 ### Vulnerability & Risk Management
-- [ConnectSecure Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-connectsecure) - [ConnectSecure](https://connectsecure.com/) vulnerability scanner automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [ConnectSecure Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-connectsecure) - [ConnectSecure](https://connectsecure.com/) vulnerability scanner automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [SecurityScorecard Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/SecurityScorecard) - [SecurityScorecard](https://securityscorecard.com/) cybersecurity ratings and risk analysis automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ---
 
 ## Utilities
-- [OpenAPI Node](https://www.npmjs.com/package/@avantguardllc/n8n-openapi-node) - Convert [OpenAPI](https://www.openapis.org/) specs into n8n nodes. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
-- [PXL Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-pxl) - [PXL](https://pxl.to/) link shortener and tracking automation. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
-- [WebhookSite Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-webhooksite) - [Webhook.site](https://webhook.site/) webhook testing and inspection. *(by [AvantGuard LLC](https://www.npmjs.com/~avantguardllc))*
+- [OpenAPI Node](https://www.npmjs.com/package/@avantguardllc/n8n-openapi-node) - Convert [OpenAPI](https://www.openapis.org/) specs into n8n nodes. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+- [PXL Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-pxl) - [PXL](https://pxl.to/) link shortener and tracking automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+- [WebhookSite Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-webhooksite) - [Webhook.site](https://webhook.site/) webhook testing and inspection. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 
 ---
 
