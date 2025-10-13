@@ -7,34 +7,37 @@
 
 ## Contents
 
-- [Accounting Platforms](#accounting-platforms)
-- [Alerting](#alerting)
-  - [Monitoring & Uptime](#monitoring--uptime)
-  - [On-Call & Incident Response](#on-call--incident-response)
-- [Backup & DR](#backup--dr)
-- [Communication](#communication)
-  - [Chat & Collaboration](#chat--collaboration)
-  - [Transactional Email](#transactional-email)
-  - [SMS & Voice](#sms--voice)
-- [CRM & Marketing](#crm--marketing)
-- [Distributors](#distributors)
-- [Documentation](#documentation)
-- [Infrastructure & Edge Services](#infrastructure--edge-services)
-- [Microsoft Management](#microsoft-management)
-- [Payment Platforms](#payment-platforms)
-- [PSA Tools](#psa-tools)
-- [Quoting & Proposals](#quoting--proposals)
-- [RMM Tools](#rmm-tools)
-- [Security](#security)
-  - [Endpoint Protection](#endpoint-protection)
-  - [Network & DNS Security](#network--dns-security)
-  - [Password Management & Access](#password-management--access)
-  - [SaaS & Cloud Security Monitoring](#saas--cloud-security-monitoring)
-  - [Security Awareness & Training](#security-awareness--training)
-  - [Vulnerability & Risk Management](#vulnerability--risk-management)
-- [Utilities](#utilities)
-- [Contributing](#contributing)
-- [License](#license)
+- [Awesome N8N MSP Nodes ](#awesome-n8n-msp-nodes-)
+  - [Contents](#contents)
+  - [Accounting Platforms](#accounting-platforms)
+  - [Alerting](#alerting)
+    - [Monitoring \& Uptime](#monitoring--uptime)
+    - [On-Call \& Incident Response](#on-call--incident-response)
+  - [Backup \& DR](#backup--dr)
+  - [Communication](#communication)
+    - [Chat \& Collaboration](#chat--collaboration)
+    - [Transactional Email](#transactional-email)
+    - [SMS \& Voice](#sms--voice)
+  - [CRM \& Marketing](#crm--marketing)
+  - [Distributors](#distributors)
+  - [Documentation](#documentation)
+  - [Infrastructure \& Edge Services](#infrastructure--edge-services)
+  - [Microsoft Management](#microsoft-management)
+  - [Payment Platforms](#payment-platforms)
+  - [PSA Tools](#psa-tools)
+  - [Quoting \& Proposals](#quoting--proposals)
+  - [RMM Tools](#rmm-tools)
+  - [Security](#security)
+    - [Endpoint Protection](#endpoint-protection)
+    - [Network \& DNS Security](#network--dns-security)
+    - [Password Management \& Access](#password-management--access)
+    - [SaaS \& Cloud Security Monitoring](#saas--cloud-security-monitoring)
+    - [Security Awareness \& Training](#security-awareness--training)
+    - [Vulnerability \& Risk Management](#vulnerability--risk-management)
+  - [Utilities](#utilities)
+  - [Miscellaneous](#miscellaneous)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ---
 
@@ -88,6 +91,7 @@
 
 ## Distributors
 - [Pax8 Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-pax8) - [Pax8](https://www.pax8.com/) cloud distributor API integration. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+- [Sherweb Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-sherweb) - [Sherweb](https://www.sherweb.com/) cloud distributor API integration. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
 
 ---
 
@@ -131,6 +135,7 @@
 ---
 
 ## RMM Tools
+- [ImmyBot Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-immybot) - [ImmyBot](https://www.immy.bot/) RMM automation and integrations. *(by [n8layer](https://www.npmjs.com/~n8layer))*
 - [NinjaOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-ninjaone) - [NinjaOne](https://www.ninjaone.com/) RMM automation and integrations. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [SyncroMSP Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/SyncroMSP) - [SyncroMSP](https://syncromsp.com/) PSA and RMM platform automation. *(by [n8n.io](https://github.com/n8n-io))*
 
@@ -139,12 +144,15 @@
 ## Security
 
 ### Endpoint Protection
+- [Huntress Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-huntress) - [Huntress](https://huntress.io/) endpoint protection and threat response. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
 - [SentinelOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-sentinelone) - [SentinelOne](https://www.sentinelone.com/) endpoint protection and threat response. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 
 ### Network & DNS Security
 - [DNSFilter Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-dnsfilter) - [DNSFilter](https://www.dnsfilter.com/) DNS security and policy management. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+- [Zorus Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-zorus) - [Zorus](https://www.zorus.com/) DNS security and policy management. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
 
 ### Password Management & Access
+- [1Password Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-1password) - [1Password](https://1password.com/) password manager and vault automation. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
 - [Bitwarden Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Bitwarden) - [Bitwarden](https://bitwarden.com/) password manager automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ### SaaS & Cloud Security Monitoring
@@ -163,6 +171,11 @@
 - [OpenAPI Node](https://www.npmjs.com/package/@avantguardllc/n8n-openapi-node) - Convert [OpenAPI](https://www.openapis.org/) specs into n8n nodes. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [PXL Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-pxl) - [PXL](https://pxl.to/) link shortener and tracking automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [WebhookSite Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-webhooksite) - [Webhook.site](https://webhook.site/) webhook testing and inspection. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+
+---
+
+## Miscellaneous
+- [Printix Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-printix-cloud-print) - [Tungsten Printix](https://printix.net/) cloud printing automation. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
 
 ---
 
