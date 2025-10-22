@@ -124,6 +124,7 @@
 
 ## PSA Tools
 - [Autotask Node](https://github.com/msoukhomlinov/n8n-nodes-autotask) - [Autotask](https://www.datto.com/autotask-psa/) PSA ticketing, time, invoicing, and project integration with webhook listener registration. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
+- [ConnectWise PSA Node](https://mspcopilot.io/n8n-nodes/connectwise-psa) - [ConnectWise PSA](https://www.connectwise.com/platform/psa) PSA integration *(by [@j0dan](https://mspcopilot.io))*
 - [HaloPSA Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-halopsa) - [HaloPSA](https://halopsa.com/) professional services automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [ServiceNow Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/ServiceNow) - [ServiceNow](https://www.servicenow.com/) service management and workflow automation. *(by [n8n.io](https://github.com/n8n-io))*
 
@@ -150,6 +151,7 @@
 ### Network & DNS Security
 - [DNSFilter Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-dnsfilter) - [DNSFilter](https://www.dnsfilter.com/) DNS security and policy management. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [Zorus Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-zorus) - [Zorus](https://www.zorus.com/) DNS security and policy management. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
+- [UniFi Site Manager](https://mspcopilot.io/n8n-nodes/unifi-sitemanager) - [UniFi Site Manager API](https://developer.ui.com/site-manager-api/gettingstarted) This is for the UI.com cloud site manager. *(by [j0dan](https://mspcopilot.io))*
 
 ### Password Management & Access
 - [1Password Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-1password) - [1Password](https://1password.com/) password manager and vault automation. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
