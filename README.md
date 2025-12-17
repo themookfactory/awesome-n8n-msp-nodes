@@ -132,6 +132,7 @@
 
 ## Quoting & Proposals
 - [ConnectWise CPQ (Sell) Node](https://github.com/msoukhomlinov/n8n-nodes-connectwise-cpq) - [ConnectWise CPQ](https://www.connectwise.com/platform/sell) quoting and proposal automation for MSP sales workflows. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
+- [TurboDocx Node](https://www.npmjs.com/package/@turbodocx/n8n-nodes-turbodocx) - [TurboDocx](https://www.turbodocx.com) single and bulk e-signature and templating tool. *(by [@turbodocx](https://github.com/turbodocx/))*
 
 ---
 
@@ -149,9 +150,11 @@
 - [SentinelOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-sentinelone) - [SentinelOne](https://www.sentinelone.com/) endpoint protection and threat response. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 
 ### Network & DNS Security
+- [DefensX Node](https://www.npmjs.com/package/n8n-nodes-defensx) - [DefensX](https://www.defensx.com/) DNS and endpoint security, and content filtering, and remote access. *(by [@dszp](https://david.szpunar.com))*
 - [DNSFilter Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-dnsfilter) - [DNSFilter](https://www.dnsfilter.com/) DNS security and policy management. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
-- [Zorus Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-zorus) - [Zorus](https://www.zorus.com/) DNS security and policy management. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
 - [UniFi Site Manager](https://mspcopilot.io/n8n-nodes/unifi-sitemanager) - [UniFi Site Manager API](https://developer.ui.com/site-manager-api/gettingstarted) This is for the UI.com cloud site manager. *(by [j0dan](https://mspcopilot.io))*
+- [Zorus Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-zorus) - [Zorus](https://www.zorus.com/) DNS security and policy management. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
+
 
 ### Password Management & Access
 - [1Password Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-1password) - [1Password](https://1password.com/) password manager and vault automation. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
