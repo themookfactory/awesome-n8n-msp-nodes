@@ -111,7 +111,6 @@
 ## Microsoft Management
 - [CIPP Node (@avantguardllc)](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-cipp) - [CIPP](https://cipp.app/) Microsoft 365 management and automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [CIPP Node (davejlong)](https://github.com/davejlong/n8n-nodes-cipp) - [CIPP](https://cipp.app/) automation with strong support for user and licensing operations. *(by [davejlong](https://github.com/davejlong))*
-- [CIPP Node (msoukhomlinov)](https://github.com/msoukhomlinov/n8n-nodes-cipp) - [CIPP](https://cipp.app/) automation for Microsoft 365 environments. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 - [CIPP Node (n8layer)](https://www.npmjs.com/package/@n8layer/n8n-nodes-cipp) - Automate [CIPP](https://cipp.app) with extended Microsoft 365 management options. *(by [n8layer](https://www.npmjs.com/~n8layer))*
 - [Microsoft SharePoint Node](https://github.com/msoukhomlinov/n8n-nodes-microsoft-sharepoint) - [SharePoint](https://www.microsoft.com/microsoft-365/sharepoint) site and document automation. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 
