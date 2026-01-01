@@ -137,6 +137,7 @@
 ---
 
 ## RMM Tools
+- [Auvik Node](https://www.npmjs.com/package/n8n-nodes-auvik) - [Auvik](https://www.auvik.com/) Network device management and mapping (node is mostly read-only in initial release). *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 - [ImmyBot Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-immybot) - [ImmyBot](https://www.immy.bot/) RMM automation and integrations. *(by [n8layer](https://www.npmjs.com/~n8layer))*
 - [NinjaOne Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-ninjaone) - [NinjaOne](https://www.ninjaone.com/) RMM automation and integrations. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [SyncroMSP Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/SyncroMSP) - [SyncroMSP](https://syncromsp.com/) PSA and RMM platform automation. *(by [n8n.io](https://github.com/n8n-io))*
