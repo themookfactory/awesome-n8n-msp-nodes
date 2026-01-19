@@ -104,7 +104,8 @@
 ---
 
 ## Infrastructure & Edge Services
-- [Cloudflare Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Cloudflare) - [Cloudflare](https://www.cloudflare.com/) DNS, firewall, and edge network automation. *(by [n8n.io](https://github.com/n8n-io))*
+- [Cloudflare Node (Automations Project)](https://www.npmjs.com/package/n8n-nodes-cloudflare) - Comprehensive [Cloudflare](https://www.cloudflare.com/) node with 100+ API operations supported across Core Infrastructure, Developer Platform, Security, Media, Analytics, and Networking categories. *(by [Nskha Automations Project](https://github.com/Automations-Project))*
+- [Cloudflare Node (n8n.io)](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Cloudflare) - [Cloudflare](https://www.cloudflare.com/) DNS, firewall, and edge network automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ---
 
