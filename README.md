@@ -59,6 +59,7 @@
 ---
 
 ## Backup & DR
+- [Backup Radar Node](https://www.npmjs.com/package/n8n-nodes-backupradar) - [ScalePad Backup Radar](https://www.scalepad.com/backup-radar/) Multi-vendor backup monitoring and alerting system. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 - [Cove Data Protection Node](https://www.npmjs.com/package/n8n-nodes-cove) - [N-able Cove](https://www.n-able.com/products/cove-data-protection/backup) server, workstation, and cloud account backups. *(by [@redanthrax](https://github.com/redanthrax))*
 - [Druva MSP Node](https://github.com/msoukhomlinov/n8n-nodes-druva-msp) - [Druva MSP](https://www.druva.com/) cloud backup and data protection automation. *(by [msoukhomlinov](https://github.com/msoukhomlinov))*
 
