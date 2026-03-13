@@ -83,6 +83,7 @@
 - [ClerkChat Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-clerkchat) - [ClerkChat](https://clerk.chat/) two-way SMS and chat automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [NetSapiens Node](https://www.npmjs.com/package/n8n-nodes-netsapiens) - [NetSapiens](https://www.netsapiens.com/) VoIP phone switch/PBX used by many MSPs and also by service providers to MSPs. *(by [@dszp](https://david.szpunar.com))*
 - [OneBill Node](https://www.npmjs.com/package/@dszp/n8n-nodes-onebill) - [OneBill Software](https://www.onebillsoftware.com/) (primarily) VoIP quoting and billing platform that provides phone rating and integrates with voice tax providers. *(by [@dszp](https://david.szpunar.com))*
+- - [Ringotel Node](https://www.npmjs.com/package/n8n-nodes-ringotel) - [Ringotel](https://www.ringotel.com/) VoIP softphone with branded and white label app options that connects to many phones systems for voice and SMS. Admin API in initial implementation, but not Messaging API. *(by [@dszp](https://david.szpunar.com))*
 - [Twilio Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Twilio) - [Twilio](https://www.twilio.com/) SMS, call, and communication automation. *(by [n8n.io](https://github.com/n8n-io))*
 - [Yealink YMCS / RPS Node](https://www.npmjs.com/package/@dszp/n8n-nodes-yealinkymcs) - [Yealink](https://www.yealink.com/) cloud device management system and remote provisioning system for their brand of VoIP phones and related hardware. *(by [@dszp](https://david.szpunar.com))*
 
