@@ -75,6 +75,7 @@
 ### Transactional Email
 - [Acumbamail Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-acumbamail) - [Acumbamail](https://acumbamail.com/) email and SMS campaign automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [EmailIt Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-emailit) - [EmailIt](https://emailit.io/) transactional and marketing email integration. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+- [ListMonk Node](https://www.npmjs.com/package/@dszp/n8n-nodes-listmonk) - [ListMonk](https://listmonk.app/) open source self-hosted newsletter and mailing list manager that can send update notifications, includes email and SMS support, and sends via a number of third-party services/APIs. *(by [@dszp](https://david.szpunar.com), forked from multiple credited sources)*
 - [Maileroo Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-maileroo) - [Maileroo](https://maileroo.com/) transactional email delivery automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [Mailgun Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Mailgun) - [Mailgun](https://www.mailgun.com/) transactional and marketing email automation. *(by [n8n.io](https://github.com/n8n-io))*
 - [SendGrid Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/SendGrid) - [SendGrid](https://sendgrid.com/) transactional and marketing email delivery. *(by [n8n.io](https://github.com/n8n-io))*
