@@ -31,6 +31,7 @@
     - [Endpoint Protection](#endpoint-protection)
     - [Network \& DNS Security](#network--dns-security)
     - [Password Management \& Access](#password-management--access)
+    - [Privileged Account Management (PAM)](#privileged-account-management-pam)
     - [SaaS \& Cloud Security Monitoring](#saas--cloud-security-monitoring)
     - [Security Awareness \& Training](#security-awareness--training)
     - [Vulnerability \& Risk Management](#vulnerability--risk-management)
@@ -163,10 +164,12 @@
 - [UniFi Site Manager](https://mspcopilot.io/n8n-nodes/unifi-sitemanager) - [UniFi Site Manager API](https://developer.ui.com/site-manager-api/gettingstarted) This is for the UI.com cloud site manager. *(by [j0dan](https://mspcopilot.io))*
 - [Zorus Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-zorus) - [Zorus](https://www.zorus.com/) DNS security and policy management. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
 
-
 ### Password Management & Access
 - [1Password Node](https://www.npmjs.com/package/@n8layer/n8n-nodes-1password) - [1Password](https://1password.com/) password manager and vault automation. *(by [@n8layer](https://www.npmjs.com/~n8layer))*
 - [Bitwarden Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/Bitwarden) - [Bitwarden](https://bitwarden.com/) password manager automation. *(by [n8n.io](https://github.com/n8n-io))*
+
+### Privileged Account Management (PAM)
+- [CyberFox AutoElevate Node](https://www.npmjs.com/package/n8n-nodes-autoelevate) - [CyberFox AutoElevate](https://www.cyberfox.com/platforms/autoelevate-by-cyberfox/) Admin elevation and privileged account management SaaS for Mac and Windows *(by [@dszp](https://david.szpunar.com))*
 
 ### SaaS & Cloud Security Monitoring
 - [SaaS Alerts Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-saasalerts) - [SaaS Alerts](https://www.saasalerts.com/) SaaS security monitoring for MSPs. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
