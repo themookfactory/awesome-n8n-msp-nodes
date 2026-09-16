@@ -179,6 +179,7 @@
 
 ### Vulnerability & Risk Management
 - [ConnectSecure Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-connectsecure) - [ConnectSecure](https://connectsecure.com/) vulnerability scanner automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
+- [Darkmoon Node](https://www.npmjs.com/package/n8n-nodes-darkmoon) - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) AI pentest: trigger scans, pull findings, review fix PRs. *(by [ASCIT31](https://github.com/ASCIT31))*
 - [SecurityScorecard Node](https://github.com/n8n-io/n8n/tree/master/packages/nodes-base/nodes/SecurityScorecard) - [SecurityScorecard](https://securityscorecard.com/) cybersecurity ratings and risk analysis automation. *(by [n8n.io](https://github.com/n8n-io))*
 
 ---
