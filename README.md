@@ -184,6 +184,7 @@
 ---
 
 ## Utilities
+- [CurlShot Node](https://www.npmjs.com/package/n8n-nodes-curlshot) - [CurlShot](https://curlshot.com/) website screenshot capture via API (PNG, JPEG, PDF). *(by [@mediapronet](https://www.npmjs.com/~mediapronet))*
 - [OpenAPI Node](https://www.npmjs.com/package/@avantguardllc/n8n-openapi-node) - Convert [OpenAPI](https://www.openapis.org/) specs into n8n nodes. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [PXL Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-pxl) - [PXL](https://pxl.to/) link shortener and tracking automation. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
 - [WebhookSite Node](https://www.npmjs.com/package/@avantguardllc/n8n-nodes-webhooksite) - [Webhook.site](https://webhook.site/) webhook testing and inspection. *(by [@avantguardllc](https://www.npmjs.com/~avantguardllc))*
